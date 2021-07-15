@@ -55,7 +55,7 @@
 
  
 
-25.	Part 2: Creating a new repository
+## 25.	Part 2: Creating a new repository
 <br> a.	If you do not have any repositories associated with GitHub Desktop, you will see a "Let's get started!" view, where you can choose to create and clone a tutorial repository, clone an existing repository from the Internet, create a new repository, or add an existing repository from your hard drive.
 <br> b.	  
 <br> c.	Click Create a tutorial repository and clone it.
@@ -72,14 +72,15 @@
 <br> n.	"Local path" sets the location of your repository on your computer. By default, GitHub Desktop creates a GitHub folder inside your Documents folder to store your repositories, but you can choose any location on your computer. 
 <br> o.	Click Create repository.
 
-26.	Part 3: Publishing your repository to GitHub
+## 26.	Part 3: Publishing your repository to GitHub
 <br> a.	When you create a new repository, it only exists on your computer and you are the only one who can access the repository. You can publish your repository to GitHub to keep it synchronized across multiple computers and allow other people to access it. To publish your repository, push your local changes to GitHub.
 <br> b.	Click Publish repository in the menu bar.
 <br> c.	 
 <br> d.	GitHub Desktop automatically fills the "Name" and "Description" fields with the information you entered when you created the repository.
 <br> e.	Click the Publish Repository button.
 <br> f.	You can access the repository on GitHub.com 
-27.	GitHub Student Developer Pack
+
+# GitHub Student Developer Pack
 <br> 	Learn to ship software like a pro. 
 <br> There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why GitHub created the GitHub Student Developer Pack with some of their partners and friends: to give students free access to the best developer tools in one place so they can learn by doing.
 <br> Lots of free tools and courses… You have to just register in it with your college id and you will given the acess in 1-3 weeks.
