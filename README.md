@@ -4,9 +4,9 @@ Video Link:- <a href=" ">Session Video</a> <br>
 ppt download :- <a href="" >ppt</a><br>
 Important links:- 
 <br>
-GitHub :- <a href="" >ppt</a><br>
-GitHub Desktop :- <a href="" >ppt</a><br>
-GitHub Developers Pack :- <a href="" >ppt</a><br>
+GitHub :- <a href="" >Link</a><br>
+GitHub Desktop :- <a href="" >Link</a><br>
+GitHub Developers Pack :- <a href="" >Link</a><br>
 <hr>
 
 ## 1.	repository
