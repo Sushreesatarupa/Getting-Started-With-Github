@@ -38,18 +38,21 @@
 ## 18.	merge conflict
 <br>	A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.
 <hr>
+
 # Desktop
 <br> ->	You can use GitHub Desktop to create and manage a Git repository without using the command line.
 <br> ->	Part 1: Installing GitHub Desktop and authenticating your account
 <br> ->	Part 2: Creating a new repository
 <br> ->	Part 3: Publishing your repository to GitHub
 <hr>
+
 ## Introduction
 <br> a.	GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser. 
 <br> b.	GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub. 
 <br> c.	You can push to, pull from, and clone remote repositories with GitHub Desktop, and use collaborative tools such as attributing commits and creating pull requests.
 <br> d.	GitHub Desktop is an open source project. 
 <hr>
+
 ## 24.	Part 1: Installing GitHub Desktop and authenticating your account
 <br> a.	You can install GitHub Desktop on any supported operating system. 
 <br> b.	After you install the app, you will need to sign in and authenticate your account on GitHub. Authenticating allows you to connect to remote repositories on GitHub.
@@ -76,6 +79,7 @@
 <br> n.	"Local path" sets the location of your repository on your computer. By default, GitHub Desktop creates a GitHub folder inside your Documents folder to store your repositories, but you can choose any location on your computer. 
 <br> o.	Click Create repository.
 <hr>
+
 ## 26.	Part 3: Publishing your repository to GitHub
 <br> a.	When you create a new repository, it only exists on your computer and you are the only one who can access the repository. You can publish your repository to GitHub to keep it synchronized across multiple computers and allow other people to access it. To publish your repository, push your local changes to GitHub.
 <br> b.	Click Publish repository in the menu bar.
@@ -84,6 +88,7 @@
 <br> e.	Click the Publish Repository button.
 <br> f.	You can access the repository on GitHub.com 
 <hr>
+
 # GitHub Student Developer Pack
 <br> 	Learn to ship software like a pro. 
 <br> There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why GitHub created the GitHub Student Developer Pack with some of their partners and friends: to give students free access to the best developer tools in one place so they can learn by doing.
