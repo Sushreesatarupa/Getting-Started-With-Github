@@ -2,7 +2,9 @@
 <hr>
 Video Link:- <a href=" ">Session Video</a> <br>
 ppt download :- <a href="https://github.com/Sushreesatarupa/Getting-Started-With-Github/blob/main/Copy%20of%20MLH%20Localhost%20-%20How%20to%20Collaborate%20with%20GitHub%20-%20Organizer%20Slides.pdf" >ppt</a><br>
-Important links:- 
+
+### Important links
+
 <br>
 GitHub :- <a href="https://github.com/" >Link</a><br>
 GitHub Desktop :- <a href="https://desktop.github.com/" >Link</a><br>
@@ -72,20 +74,16 @@ GitHub Developers Pack :- <a href="https://education.github.com/pack/" >Link</a>
 
 ## 25.	Part 2: Creating a new repository
 <br> a.	If you do not have any repositories associated with GitHub Desktop, you will see a "Let's get started!" view, where you can choose to create and clone a tutorial repository, clone an existing repository from the Internet, create a new repository, or add an existing repository from your hard drive.
-<br> b.	  
-<br> c.	Click Create a tutorial repository and clone it.
-<br> d.	 
-<br> e.	Follow the prompts in the tutorial to install a text editor, create a branch, edit a file, make a commit, publish to GitHub, and open a pull request.
-<br> f.	Creating a new repository
-<br> g.	If you do not wish to create and clone a tutorial repository, you can create a new repository.
-<br> h.	Click Create a New Repository on your Hard Drive....
-<br> i.	 
-<br> j.	Fill in the fields and select your preferred options.
-<br> k.	 
-<br> l.	"Name" defines the name of your repository both locally and on GitHub.
-<br> m.	"Description" is an optional field that you can use to provide more information about the purpose of your repository.
-<br> n.	"Local path" sets the location of your repository on your computer. By default, GitHub Desktop creates a GitHub folder inside your Documents folder to store your repositories, but you can choose any location on your computer. 
-<br> o.	Click Create repository.
+<br> b.	Click Create a tutorial repository and clone it.
+<br> c.	Follow the prompts in the tutorial to install a text editor, create a branch, edit a file, make a commit, publish to GitHub, and open a pull request.
+<br> d.	Creating a new repository
+<br> e.	If you do not wish to create and clone a tutorial repository, you can create a new repository.
+<br> f.	Click Create a New Repository on your Hard Drive....
+<br> g.	Fill in the fields and select your preferred options.	 
+<br> h.	"Name" defines the name of your repository both locally and on GitHub.
+<br> i.	"Description" is an optional field that you can use to provide more information about the purpose of your repository.
+<br> j.	"Local path" sets the location of your repository on your computer. By default, GitHub Desktop creates a GitHub folder inside your Documents folder to store your repositories, but you can choose any location on your computer. 
+<br> k.	Click Create repository.
 <hr>
 
 ## 26.	Part 3: Publishing your repository to GitHub
