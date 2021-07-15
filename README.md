@@ -4,9 +4,9 @@ Video Link:- <a href=" ">Session Video</a> <br>
 ppt download :- <a href="https://github.com/Sushreesatarupa/Getting-Started-With-Github/blob/main/Copy%20of%20MLH%20Localhost%20-%20How%20to%20Collaborate%20with%20GitHub%20-%20Organizer%20Slides.pdf" >ppt</a><br>
 Important links:- 
 <br>
-GitHub :- <a href="" >Link</a><br>
-GitHub Desktop :- <a href="" >Link</a><br>
-GitHub Developers Pack :- <a href="" >Link</a><br>
+GitHub :- <a href="https://github.com/" >Link</a><br>
+GitHub Desktop :- <a href="https://desktop.github.com/" >Link</a><br>
+GitHub Developers Pack :- <a href="https://education.github.com/pack/" >Link</a><br>
 <hr>
 
 ## 1.	repository
