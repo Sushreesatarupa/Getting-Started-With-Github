@@ -89,10 +89,9 @@ GitHub Developers Pack :- <a href="https://education.github.com/pack/" >Link</a>
 ## 26.	Part 3: Publishing your repository to GitHub
 <br> a.	When you create a new repository, it only exists on your computer and you are the only one who can access the repository. You can publish your repository to GitHub to keep it synchronized across multiple computers and allow other people to access it. To publish your repository, push your local changes to GitHub.
 <br> b.	Click Publish repository in the menu bar.
-<br> c.	 
-<br> d.	GitHub Desktop automatically fills the "Name" and "Description" fields with the information you entered when you created the repository.
-<br> e.	Click the Publish Repository button.
-<br> f.	You can access the repository on GitHub.com 
+<br> c.	GitHub Desktop automatically fills the "Name" and "Description" fields with the information you entered when you created the repository.
+<br> d.	Click the Publish Repository button.
+<br> e.	You can access the repository on GitHub.com 
 <hr>
 
 # GitHub Student Developer Pack
